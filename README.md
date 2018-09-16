@@ -7,6 +7,6 @@ npm i
 node app.js
 ```
 
-##for help
+## for help
 
 `node app.js --help`
