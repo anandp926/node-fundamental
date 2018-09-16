@@ -1,6 +1,12 @@
-# to run this application
-## `npm i`
-## `node app.js`
+## Installing / Getting started
 
-#for help
-##`node app.js --help`
+Run the following command to get start
+```
+npm i
+
+node app.js
+```
+
+##for help
+
+`node app.js --help`
